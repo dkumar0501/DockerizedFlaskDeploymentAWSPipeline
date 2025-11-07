@@ -94,7 +94,7 @@ This project automates the deployment of a Flask application with a MySQL databa
 
 **Developed by [D Kumar](https://github.com/dkumar0501)** **[IIT Patna]**
 
-
+---
 <p align="center">
   <em>“Bridging development and deployment through intelligent automation.”</em>
 </p>

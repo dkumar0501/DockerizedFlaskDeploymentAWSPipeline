@@ -13,19 +13,18 @@
   <img src="https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
----
+
 
 ### **About**
 It is a **DevOps based automated deployment pipeline** that utilizes **Jenkins**, **Docker**, and **AWS EC2** to enable continuous integration and delivery of a **two-tier Flask–MySQL web application**, featuring **containerized services**, **GitHub integration**, and **hands-free application deployment** through a fully automated **CI/CD workflow**.
 
----
 
 ## 📘 Overview
 
 This project automates the deployment of a Flask application with a MySQL database on AWS EC2.  
 It leverages **Jenkins pipelines**, **Docker Compose**, and **GitHub version control** to create a seamless DevOps workflow — from code commit to production deployment — ensuring reliability, scalability, and consistency.
 
----
+
 
 ## 🚀 Features
 
@@ -36,7 +35,7 @@ It leverages **Jenkins pipelines**, **Docker Compose**, and **GitHub version con
 - AWS EC2-based production environment  
 - Streamlined and hands-free deployment process  
 
----
+
 
 ## 🧠 Technical Overview
 
@@ -50,7 +49,7 @@ It leverages **Jenkins pipelines**, **Docker Compose**, and **GitHub version con
 | **Version Control** | GitHub integration with Jenkins |
 | **Automation Flow** | Code push → Jenkins build → Docker image → Docker Compose deploy |
 
----
+
 
 ## ⚙️ Architecture Overview
 
@@ -80,7 +79,7 @@ It leverages **Jenkins pipelines**, **Docker Compose**, and **GitHub version con
                                                        | +-------------------------+ |
                                                        +-----------------------------+
 ```
----
+
 
 ## 🧩 Future Enhancements
 
@@ -90,7 +89,7 @@ It leverages **Jenkins pipelines**, **Docker Compose**, and **GitHub version con
 - Implementation of **Blue-Green / Canary** deployment strategy  
 - Automated rollback for failed builds  
 
----
+
 
 ## 👨‍💻 Author
 

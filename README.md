@@ -54,6 +54,7 @@ It leverages **Jenkins pipelines**, **Docker Compose**, and **GitHub version con
 
 ## ⚙️ Architecture Overview
 
+```
 +-----------------+      +----------------------+      +-----------------------------+
 |   Developer     |----->|     GitHub Repo      |----->|        Jenkins Server       |
 | (pushes code)   |      | (Source Code Mgmt)   |      |  (on AWS EC2)               |
@@ -63,23 +64,22 @@ It leverages **Jenkins pipelines**, **Docker Compose**, and **GitHub version con
                                                        | 3. Runs Docker Compose      |
                                                        +--------------+--------------+
                                                                       |
+                                                                      | Deploys
                                                                       v
                                                        +-----------------------------+
                                                        |      Application Server     |
                                                        |      (Same AWS EC2)         |
+                                                       |                             |
                                                        | +-------------------------+ |
-                                                       | | Flask Container         | |
+                                                       | | Docker Container: Flask | |
                                                        | +-------------------------+ |
-                                                       | | MySQL Container         | |
+                                                       |              |              |
+                                                       |              v              |
+                                                       | +-------------------------+ |
+                                                       | | Docker Container: MySQL | |
                                                        | +-------------------------+ |
                                                        +-----------------------------+
-
----
-
-## 📷 Project Live Working
-
-<img src="diagrams/Infrastructure.png" alt="Infrastructure Diagram">
-<img src="diagrams/project_workflow.png" alt="Workflow Diagram">
+```
 
 ---
 

@@ -1,4 +1,4 @@
-<h1 align="left">DockerizedFlaskDeploymentAWSPipeline</h1>
+<h1 align="left">Dockerized Flask Deployment AWS Pipeline</h1>
 
 <p align="left">
   <strong>DevOps • Docker • Jenkins • AWS EC2 • CI/CD Automation</strong>

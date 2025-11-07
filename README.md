@@ -101,7 +101,3 @@ It leverages **Jenkins pipelines**, **Docker Compose**, and **GitHub version con
 <p align="center">
   <em>“Bridging development and deployment through intelligent automation.”</em>
 </p>
-
----
-
-<

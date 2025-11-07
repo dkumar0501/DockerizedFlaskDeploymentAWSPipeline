@@ -95,7 +95,6 @@ It leverages **Jenkins pipelines**, **Docker Compose**, and **GitHub version con
 
 **Developed by [D Kumar](https://github.com/dkumar0501)** **[IIT Patna]**
 
----
 
 <p align="center">
   <em>“Bridging development and deployment through intelligent automation.”</em>

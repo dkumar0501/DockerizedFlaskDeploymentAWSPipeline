@@ -16,13 +16,12 @@
 
 
 ### **About**
-It is a **DevOps based automated deployment pipeline** that utilizes **Jenkins**, **Docker**, and **AWS EC2** to enable continuous integration and delivery of a **two tier Flask MySQL web application**, featuring **containerized services**, **GitHub integration**, and **hands-free application deployment** through a fully automated **CI/CD workflow**.
+It is a **DevOps based automated deployment pipeline** that utilizes **Jenkins**, **Docker**, and **AWS EC2** to enable continuous integration and delivery of a two tier Flask MySQL web application, featuring **containerized services**, **GitHub integration**, and hands free application deployment through a fully automated **CI/CD workflow**.
 
 
 ## 📘 Overview
 
-This project automates the deployment of a Flask application with a MySQL database on AWS EC2.  
-It leverages **Jenkins pipelines**, **Docker Compose**, and **GitHub version control** to create a seamless DevOps workflow from code commit to production deployment ensuring reliability, scalability, and consistency.
+This project automates the deployment of a Flask application with a MySQL database on AWS EC2. It leverages **Jenkins pipelines**, **Docker Compose**, and **GitHub version control** to create a seamless DevOps workflow from code commit to production deployment ensuring reliability, scalability, and consistency.
 
 
 

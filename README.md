@@ -5,7 +5,7 @@
 </p>      
       
 <!-- Badges -->      
-<p align="left"> 
+<p align="left">  
   <img src="https://img.shields.io/badge/AWS-EC2%20Deployed-232F3E?logo=amazon-aws&logoColor=white" alt="AWS EC2"> 
   <img src="https://img.shields.io/badge/Docker-Containerized-blue?logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Jenkins-CI%2FCD%20Automated-red?logo=jenkins&logoColor=white" alt="Jenkins">

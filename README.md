@@ -1,6 +1,6 @@
 <h1 align="left">Dockerized Flask Deployment AWS Pipeline</h1>  
      
-<p align="left">    
+<p align="left">     
   <strong>DevOps • Docker • Jenkins • AWS EC2 • CI/CD Automation</strong>      
 </p>      
       

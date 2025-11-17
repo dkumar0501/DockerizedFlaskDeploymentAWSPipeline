@@ -3,7 +3,7 @@
 <p align="left">    
   <strong>DevOps • Docker • Jenkins • AWS EC2 • CI/CD Automation</strong>      
 </p>     
-     
+      
 <!-- Badges -->      
 <p align="left"> 
   <img src="https://img.shields.io/badge/AWS-EC2%20Deployed-232F3E?logo=amazon-aws&logoColor=white" alt="AWS EC2"> 

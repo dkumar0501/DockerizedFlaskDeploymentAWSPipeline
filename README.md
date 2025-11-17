@@ -2,7 +2,7 @@
     
 <p align="left">    
   <strong>DevOps • Docker • Jenkins • AWS EC2 • CI/CD Automation</strong>      
-</p>    
+</p>     
    
 <!-- Badges -->      
 <p align="left"> 

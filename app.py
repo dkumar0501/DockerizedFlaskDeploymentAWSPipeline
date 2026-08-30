@@ -2,7 +2,7 @@ import os
 from flask import Flask, render_template, request, redirect, url_for, jsonify
 from flask_mysqldb import MySQL
   
-app = Flask(__name_)
+app = Flask(_name_)
 
 # Configure MySQL from environment variables
 app.config['MYSQL_HOST'] = os.environ.get('MYSQL_HOST', 'localhost')

@@ -3,7 +3,7 @@ from flask import Flask, render_template, request, redirect, url_for, jsonify
 from flask_mysqldb import MySQL 
   
 app = Flask(__name__) 
-
+  
 # Configure MySQL from environment variables
 app.config['MYSQL_HOST'] = os.environ.get('MYSQL_HOST', 'localhost')
 app.config['MYSQL_USER'] = os.environ.get('MYSQL_USER', 'default_user')
